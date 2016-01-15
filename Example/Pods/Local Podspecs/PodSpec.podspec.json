@@ -1,0 +1,20 @@
+{
+  "name": "PodSpec",
+  "version": "0.1.0",
+  "summary": "A short descsdfasdfription of PodSpec.",
+  "description": "dfadfadfsdfadfsdfsa asdf asdf asdfas df asd f sadf as df asd fdfs",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PodSpec",
+  "license": "MIT",
+  "authors": {
+    "wangling": "wangling@hzdracom.com"
+  },
+  "source": {
+    "git": "cd /Users/kakaxi/Desktop/练习项目/PodSpec",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}
